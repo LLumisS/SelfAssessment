@@ -4,12 +4,12 @@
   - Modularity: 🙋 explained
   - Components: 🙋 explained
   - Directories: 🙋 explained
-  - GRASP: k
-  - SOLID: e
+  - GRASP: 🎓 known
+  - SOLID: 🙋 explained
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code: e
+  - Multiparadigm code: 🙋 explained
   - Contract programming: 👂 heard
   - Platform-agnostic
   - Transport-agnostic
@@ -24,28 +24,28 @@
   - Flexibility: 🙋 explained
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer: k
+  - Isolation between layer: 🎓 known
   - Domain-specific language (DSL): 👂 heard
   - System vs applied code: 👂 heard
-  - Multilayer approach: k
+  - Multilayer approach: 🎓 known
   - Hexagonal architecture
-  - Separation of concerns (SoC): k
-  - Metaprogramming: k
-  - Inversion of control (IoC): e
-  - Dependency injection (DI): e
+  - Separation of concerns (SoC): 🎓 known
+  - Metaprogramming: 🎓 known
+  - Inversion of control (IoC): 🙋 explained
+  - Dependency injection (DI): 🙋 explained
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
   - Agent
   - Service locator
-  - Message Queue (MQ): k
+  - Message Queue (MQ): 🎓 known
   - CQRS: 👂 heard
   - Event sourcing
   - E-R data modeling: 🙋 explained
   - Entity-relationship diagram: 🙋 explained
   - IDEF1X
-  - UML: e
+  - UML: 🙋 explained
   - Work breakdown structure
   - Budget estimation: 🎓 known
   - Distributed systems
@@ -62,13 +62,13 @@
   - Bus factor
 - Solution architecture
   - A software requirements specification (SRS): 🎓 known
-  - Solution visions k
-  - Solution capabilities k
+  - Solution visions: 🎓 known
+  - Solution capabilities: 🎓 known
   - System design: 🎓 known
   - Process modelling: 🎓 known
-  - Data modelling: k
+  - Data modelling: 🎓 known
   - Solution components
-  - Risk assessment: k
+  - Risk assessment: 🎓 known
   - Non Functional Requirements (NFR): 🎓 known
   - Clouds: 🎓 known
   - BPMN
@@ -80,15 +80,15 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs h
-  - Enterprise strategy h
-  - Integration with subsystems h
-  - Enterprise vision h
-  - Enterprise capabilities h
+  - Understanding business needs: 👂 heard
+  - Enterprise strategy: 👂 heard
+  - Integration with subsystems: 👂 heard
+  - Enterprise vision: 👂 heard
+  - Enterprise capabilities: 👂 heard
   - Project scope: 👂 heard
   - Enterprise service bus
   - Service-oriented architecture: 👂 heard
-  - Microservices: k
+  - Microservices: 🎓 known
   - Process choreography
   - Service orchestration
   - Data warehouse

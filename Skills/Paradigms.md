@@ -17,8 +17,8 @@
   - Functional-reactive (FRP): 🎓 known
   - Automata-based programming: 👂 heard
   - Domain-specific languages: 👂 heard
-  - Multi-paradigm programming: e
-  - Metaprogramming: k
+  - Multi-paradigm programming: 🙋 explained
+  - Metaprogramming: 🎓 known
   - Actor model
   - Lambda calculus
   - Black box
@@ -45,47 +45,47 @@
   - Hidden class: 🙋 explained
   - Object form: 🙋 explained
   - Instance: 🙋 explained
-  - Introspection: k
+  - Introspection: 🎓 known
   - Reflection: 🙋 explained
-  - The diamond problem: k
+  - The diamond problem: 🎓 known
 - GRASP
-  - Information expert: k
-  - Creator: k
-  - Controller: k
-  - Indirection h
-  - Low coupling h
-  - High cohesion h
+  - Information expert: 🎓 known
+  - Creator: 🎓 known
+  - Controller: 🎓 known
+  - Indirection: 👂 heard
+  - Low coupling: 👂 heard
+  - High cohesion: 👂 heard
   - Protected variations: 👂 heard
-  - Pure fabrication: k
+  - Pure fabrication: 🎓 known
 - SOLID
-  - Single-responsibility principle (SRP): e
-  - Open–closed principle (OCP): e
-  - Liskov substitution principle (LSP) k
-  - Interface segregation principle (ISP): k
-  - Dependency inversion principle (DIP): e
+  - Single-responsibility principle (SRP): 🙋 explained
+  - Open–closed principle (OCP): 🙋 explained
+  - Liskov substitution principle (LSP): 🎓 known
+  - Interface segregation principle (ISP): 🎓 known
+  - Dependency inversion principle (DIP): 🙋 explained
 - Patterns
-  - Singleton: e
-  - Factory Method: e
-  - Abstract Factory: e
-  - Adapter h
-  - Observer h
+  - Singleton: 🙋 explained
+  - Factory Method: 🙋 explained
+  - Abstract Factory: 🙋 explained
+  - Adapter: 👂 heard
+  - Observer: 👂 heard
   - Strategy
   - Facade
-  - Proxy: k
-  - Chain of Responsibility: k
+  - Proxy: 🎓 known
+  - Chain of Responsibility: 🎓 known
   - Command
-  - Iterator: e
+  - Iterator: 🙋 explained
   - State
   - Bridge
-  - Builder: k
-  - Prototype: k
+  - Builder: 🎓 known
+  - Prototype: 🎓 known
   - Composite
-  - Decorator h
+  - Decorator: 👂 heard
   - Flyweight
   - Mediator
   - Memento
-  - Template Method h
+  - Template Method: 👂 heard
   - Visitor
   - Reactor
   - Active object
-  - Delegation: k
+  - Delegation: 🎓 known

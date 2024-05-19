@@ -64,54 +64,54 @@
   - Cast operator: 🙋 explained
   - `instanceof`: 🙋 explained
 - Generics
-  - Class with type arguments: e
-  - Method with type arguments: e
-  - Bounded type arguments: e
+  - Class with type arguments: 🙋 explained
+  - Method with type arguments: 🙋 explained
+  - Bounded type arguments: 🙋 explained
   - Type erasure: 🎓 known
   - Type inference: 🎓 known
-  - Diamond operator `<>`: e
-  - Unbounded wildcard: e
-  - Upper-bounded wildcard: e
-  - Lower-bounded wildcard: e
+  - Diamond operator `<>`: 🙋 explained
+  - Unbounded wildcard: 🙋 explained
+  - Upper-bounded wildcard: 🙋 explained
+  - Lower-bounded wildcard: 🙋 explained
 - Functional programming
   - Functional interfaces: 🙋 explained
   - Lambdas: 🙋 explained
   - Method references: 🙋 explained
   - Java Stream API: 🎓 known
 - `InputStream` and `OutputStream`
-  - `try/catch` with resource: e
+  - `try/catch` with resource: 🙋 explained
   - `Scanner`: 🙋 explained
-  - `ByteArrayOutputStream`: e
-  - `ByteArrayInputStream`: e
-  - `DataOutputStream`: k
-  - `DataInputStream`: k
+  - `ByteArrayOutputStream`: 🙋 explained
+  - `ByteArrayInputStream`: 🙋 explained
+  - `DataOutputStream`: 🎓 known
+  - `DataInputStream`: 🎓 known
 - Readers and Writers
-  - `OutputStreamWriter`: e
-  - `InputStreamReader`: e
+  - `OutputStreamWriter`: 🙋 explained
+  - `InputStreamReader`: 🙋 explained
 - Working with files
-  - `BufferedOutputStream`: e
-  - `BufferedInputStream`: e
-  - `BufferedWriter`: e
-  - `BufferedReader`: e
-  - `File`: e
+  - `BufferedOutputStream`: 🙋 explained
+  - `BufferedInputStream`: 🙋 explained
+  - `BufferedWriter`: 🙋 explained
+  - `BufferedReader`: 🙋 explained
+  - `File`: 🙋 explained
   - `RandomAccessFile`: 👂 heard
-  - `FileInputStream`: e
-  - `FileOutputStream`: e
-  - Serialization: e
+  - `FileInputStream`: 🙋 explained
+  - `FileOutputStream`: 🙋 explained
+  - Serialization: 🙋 explained
 - Multithreading
   - `Thread`: 🙋 explained
-  - `Runnable`: e
-  - `Semaphore`: e
-  - `Lock`: e
-  - Atomic types and operations: e
-  - Monitors: e
-  - `synchronized` methods: e
-  - `synchronized` blocks: e
-  - Synchronized collections: e
-  - Dead locks, race conditions: e
+  - `Runnable`: 🙋 explained
+  - `Semaphore`: 🙋 explained
+  - `Lock`: 🙋 explained
+  - Atomic types and operations: 🙋 explained
+  - Monitors: 🙋 explained
+  - `synchronized` methods: 🙋 explained
+  - `synchronized` blocks: 🙋 explained
+  - Synchronized collections: 🙋 explained
+  - Dead locks, race conditions: 🙋 explained
 - Spring Framework
-  - Spring Core: u
-  - Spring Boot: u
-  - Spring MVC: e
-  - Spring Data: u
-  - Spring Security: k
+  - Spring Core: 🖐️ used
+  - Spring Boot: 🖐️ used
+  - Spring MVC: 🙋 explained
+  - Spring Data: 🖐️ used
+  - Spring Security: 🎓 known

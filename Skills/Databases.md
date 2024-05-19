@@ -5,7 +5,7 @@
   - Performance tuning: 🎓 known
   - Migrations: 🙋 explained
   - Schema versioning
-  - Backup and recovery: k
+  - Backup and recovery: 🎓 known
   - Database scalability
   - Relational databases: 🙋 explained
   - Key-value store: 🙋 explained
@@ -15,11 +15,11 @@
   - Column databases: 🎓 known
   - Navigational databases: 👂 heard
   - Hierarchical databases: 🙋 explained
-  - In-memory databases: e
+  - In-memory databases: 🙋 explained
   - Inverted index
-  - Data control language (DCL): e
+  - Data control language (DCL): 🙋 explained
   - Data definition language (DDL): 🙋 explained
-  - Data manipulation language (DML): e
+  - Data manipulation language (DML): 🙋 explained
   - Data query language (DQL): 🙋 explained
 - Relational
   - Entity-Relationship Diagram: 🙋 explained
