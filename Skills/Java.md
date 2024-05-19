@@ -1,4 +1,5 @@
 ## Java
+
 - Code basics
 	- Variables
 	- Primitive types
@@ -22,16 +23,14 @@
 	- `Set`
 	- `Map`
 	- `Collection`, `Iterable`
-
+    - Recursion
+    - Enum classes
 - Methods
 	- Arguments
 	- Return type
 	- Method signature
 	- Method overloading
 	- `varargs`
-
-- Recursion
-
 - Classes and objects
 	- Properties
 	- Methods
@@ -41,15 +40,10 @@
 	- `this`
 	- Initializer
 	- Mutable and immutable objects
-
-- Enum classes
-
 - Class `Object`
 	- `toString()`
 	- `equals(), hashcode()`
-
 - Packages
-
 - Object-Oriented Programming (OOP)
 	- Abstraction
 	- Encapsulation
@@ -69,7 +63,6 @@
 	- package-private
 	- Cast operator
 	- `instanceof`
-
 - Generics
 	- Class with type arguments
 	- Method with type arguments
@@ -80,38 +73,31 @@
 	- Unbounded wildcard
 	- Upper-bounded wildcard
 	- Lower-bounded wildcard
-
 - Functional programming
 	- Functional interfaces
 	- Lambdas
 	- Method references
 	- Java Stream API
-
-- Input/Output
-	- `InputStream` and `OutputStream`
-		- `try/catch` with resource
-		- `Scanner`
-		- `ByteArrayOutputStream`
-		- `ByteArrayInputStream`
-		- `DataOutputStream`
-		- `DataInputStream`
-
-	- Readers and Writers
-		- `OutputStreamWriter`
-		- `InputStreamReader`
-	
-	- Serialization
-
-	- Working with files
-		- `BufferedOutputStream`
-		- `BufferedInputStream`
-		- `BufferedWriter`
-		- `BufferedReader`
-		- `File`
-		- `RandomAccessFile`
-		- `FileInputStream`
-		- `FileOutputStream`
-
+- `InputStream` and `OutputStream`
+    - `try/catch` with resource
+    - `Scanner`
+    - `ByteArrayOutputStream`
+    - `ByteArrayInputStream`
+    - `DataOutputStream`
+    - `DataInputStream`
+- Readers and Writers
+    - `OutputStreamWriter`
+    - `InputStreamReader`
+- Working with files
+    - `BufferedOutputStream`
+    - `BufferedInputStream`
+    - `BufferedWriter`
+    - `BufferedReader`
+    - `File`
+    - `RandomAccessFile`
+    - `FileInputStream`
+    - `FileOutputStream`
+    - Serialization
 - Multithreading
 	- `Thread`
 	- `Runnable`
@@ -123,9 +109,6 @@
 	- `synchronized` blocks
 	- Synchronized collections
 	- Dead locks, race conditions
-
-- Date/Time API
-
 - Spring Framework
 	- Spring Core
 	- Spring Boot
