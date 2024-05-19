@@ -64,54 +64,54 @@
   - Cast operator: 🙋 explained
   - `instanceof`: 🙋 explained
 - Generics
-  - Class with type arguments: 🎓 known
-  - Method with type arguments: 🎓 known
-  - Bounded type arguments: 🎓 known
+  - Class with type arguments: 🙋 explained
+  - Method with type arguments: 🙋 explained
+  - Bounded type arguments: 🙋 explained
   - Type erasure: 🎓 known
   - Type inference: 🎓 known
-  - Diamond operator `<>`: 🎓 known
-  - Unbounded wildcard: 👂 heard
-  - Upper-bounded wildcard: 👂 heard
-  - Lower-bounded wildcard: 👂 heard
+  - Diamond operator `<>`: 🙋 explained
+  - Unbounded wildcard: 🙋 explained
+  - Upper-bounded wildcard: 🙋 explained
+  - Lower-bounded wildcard: 🙋 explained
 - Functional programming
   - Functional interfaces: 🙋 explained
   - Lambdas: 🙋 explained
   - Method references: 🙋 explained
   - Java Stream API: 🎓 known
 - `InputStream` and `OutputStream`
-  - `try/catch` with resource: 🎓 known
+  - `try/catch` with resource: 🙋 explained
   - `Scanner`: 🙋 explained
-  - `ByteArrayOutputStream`: 👂 heard
-  - `ByteArrayInputStream`: 👂 heard
-  - `DataOutputStream`: 👂 heard
-  - `DataInputStream`: 👂 heard
+  - `ByteArrayOutputStream`: 🙋 explained
+  - `ByteArrayInputStream`: 🙋 explained
+  - `DataOutputStream`: 🎓 known
+  - `DataInputStream`: 🎓 known
 - Readers and Writers
-  - `OutputStreamWriter`: 👂 heard
-  - `InputStreamReader`: 👂 heard
+  - `OutputStreamWriter`: 🙋 explained
+  - `InputStreamReader`: 🙋 explained
 - Working with files
-  - `BufferedOutputStream`: 👂 heard
-  - `BufferedInputStream`: 👂 heard
-  - `BufferedWriter`: 👂 heard
-  - `BufferedReader`: 👂 heard
-  - `File`: 🎓 known
+  - `BufferedOutputStream`: 🙋 explained
+  - `BufferedInputStream`: 🙋 explained
+  - `BufferedWriter`: 🙋 explained
+  - `BufferedReader`: 🙋 explained
+  - `File`: 🙋 explained
   - `RandomAccessFile`: 👂 heard
-  - `FileInputStream`: 👂 heard
-  - `FileOutputStream`: 👂 heard
-  - Serialization: 🎓 known
+  - `FileInputStream`: 🙋 explained
+  - `FileOutputStream`: 🙋 explained
+  - Serialization: 🙋 explained
 - Multithreading
   - `Thread`: 🙋 explained
-  - `Runnable`: 👂 heard
-  - `Semaphore`: 👂 heard
-  - `Lock`: 👂 heard
-  - Atomic types and operations: 👂 heard
-  - Monitors: 👂 heard
-  - `synchronized` methods: 👂 heard
-  - `synchronized` blocks: 👂 heard
-  - Synchronized collections: 👂 heard
-  - Dead locks, race conditions: 👂 heard
+  - `Runnable`: 🙋 explained
+  - `Semaphore`: 🙋 explained
+  - `Lock`: 🙋 explained
+  - Atomic types and operations: 🙋 explained
+  - Monitors: 🙋 explained
+  - `synchronized` methods: 🙋 explained
+  - `synchronized` blocks: 🙋 explained
+  - Synchronized collections: 🙋 explained
+  - Dead locks, race conditions: 🙋 explained
 - Spring Framework
-  - Spring Core: 👂 heard
-  - Spring Boot: 👂 heard
-  - Spring MVC: 👂 heard
-  - Spring Data: 👂 heard
-  - Spring Security: 👂 heard
+  - Spring Core: 🖐️ used
+  - Spring Boot: 🖐️ used
+  - Spring MVC: 🙋 explained
+  - Spring Data: 🖐️ used
+  - Spring Security: 🎓 known

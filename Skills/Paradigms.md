@@ -17,8 +17,8 @@
   - Functional-reactive (FRP): 🎓 known
   - Automata-based programming: 👂 heard
   - Domain-specific languages: 👂 heard
-  - Multi-paradigm programming: 🎓 known
-  - Metaprogramming: 👂 heard
+  - Multi-paradigm programming: 🙋 explained
+  - Metaprogramming: 🎓 known
   - Actor model
   - Lambda calculus
   - Black box
@@ -45,47 +45,47 @@
   - Hidden class: 🙋 explained
   - Object form: 🙋 explained
   - Instance: 🙋 explained
-  - Introspection: 👂 heard
+  - Introspection: 🎓 known
   - Reflection: 🙋 explained
-  - The diamond problem: 👂 heard
+  - The diamond problem: 🎓 known
 - GRASP
-  - Information expert: 👂 heard
-  - Creator: 👂 heard
-  - Controller: 👂 heard
-  - Indirection
-  - Low coupling
-  - High cohesion
+  - Information expert: 🎓 known
+  - Creator: 🎓 known
+  - Controller: 🎓 known
+  - Indirection: 👂 heard
+  - Low coupling: 👂 heard
+  - High cohesion: 👂 heard
   - Protected variations: 👂 heard
-  - Pure fabrication: 👂 heard
+  - Pure fabrication: 🎓 known
 - SOLID
-  - Single-responsibility principle (SRP): 🎓 known
-  - Open–closed principle (OCP): 🎓 known
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP): 👂 heard
-  - Dependency inversion principle (DIP): 👂 heard
+  - Single-responsibility principle (SRP): 🙋 explained
+  - Open–closed principle (OCP): 🙋 explained
+  - Liskov substitution principle (LSP): 🎓 known
+  - Interface segregation principle (ISP): 🎓 known
+  - Dependency inversion principle (DIP): 🙋 explained
 - Patterns
-  - Singleton: 🎓 known
-  - Factory Method: 🎓 known
-  - Abstract Factory: 🎓 known
-  - Adapter
-  - Observer
+  - Singleton: 🙋 explained
+  - Factory Method: 🙋 explained
+  - Abstract Factory: 🙋 explained
+  - Adapter: 👂 heard
+  - Observer: 👂 heard
   - Strategy
   - Facade
-  - Proxy: 👂 heard
-  - Chain of Responsibility: 👂 heard
+  - Proxy: 🎓 known
+  - Chain of Responsibility: 🎓 known
   - Command
-  - Iterator: 🎓 known
+  - Iterator: 🙋 explained
   - State
   - Bridge
-  - Builder: 👂 heard
-  - Prototype: 👂 heard
+  - Builder: 🎓 known
+  - Prototype: 🎓 known
   - Composite
-  - Decorator
+  - Decorator: 👂 heard
   - Flyweight
   - Mediator
   - Memento
-  - Template Method
+  - Template Method: 👂 heard
   - Visitor
   - Reactor
   - Active object
-  - Delegation: 👂 heard
+  - Delegation: 🎓 known

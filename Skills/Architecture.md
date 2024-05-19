@@ -4,12 +4,12 @@
   - Modularity: 🙋 explained
   - Components: 🙋 explained
   - Directories: 🙋 explained
-  - GRASP: 👂 heard
-  - SOLID: 🎓 known
+  - GRASP: 🎓 known
+  - SOLID: 🙋 explained
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code: 🎓 known
+  - Multiparadigm code: 🙋 explained
   - Contract programming: 👂 heard
   - Platform-agnostic
   - Transport-agnostic
@@ -24,28 +24,28 @@
   - Flexibility: 🙋 explained
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer: 👂 heard
+  - Isolation between layer: 🎓 known
   - Domain-specific language (DSL): 👂 heard
   - System vs applied code: 👂 heard
-  - Multilayer approach: 👂 heard
+  - Multilayer approach: 🎓 known
   - Hexagonal architecture
-  - Separation of concerns (SoC): 👂 heard
-  - Metaprogramming: 👂 heard
-  - Inversion of control (IoC): 👂 heard
-  - Dependency injection (DI): 👂 heard
+  - Separation of concerns (SoC): 🎓 known
+  - Metaprogramming: 🎓 known
+  - Inversion of control (IoC): 🙋 explained
+  - Dependency injection (DI): 🙋 explained
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
   - Agent
   - Service locator
-  - Message Queue (MQ): 👂 heard
+  - Message Queue (MQ): 🎓 known
   - CQRS: 👂 heard
   - Event sourcing
   - E-R data modeling: 🙋 explained
   - Entity-relationship diagram: 🙋 explained
   - IDEF1X
-  - UML: 👂 heard
+  - UML: 🙋 explained
   - Work breakdown structure
   - Budget estimation: 🎓 known
   - Distributed systems
@@ -62,13 +62,13 @@
   - Bus factor
 - Solution architecture
   - A software requirements specification (SRS): 🎓 known
-  - Solution visions
-  - Solution capabilities
+  - Solution visions: 🎓 known
+  - Solution capabilities: 🎓 known
   - System design: 🎓 known
   - Process modelling: 🎓 known
-  - Data modelling: 👂 heard
+  - Data modelling: 🎓 known
   - Solution components
-  - Risk assessment: 👂 heard
+  - Risk assessment: 🎓 known
   - Non Functional Requirements (NFR): 🎓 known
   - Clouds: 🎓 known
   - BPMN
@@ -80,15 +80,15 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
-  - Integration with subsystems
-  - Enterprise vision
-  - Enterprise capabilities
+  - Understanding business needs: 👂 heard
+  - Enterprise strategy: 👂 heard
+  - Integration with subsystems: 👂 heard
+  - Enterprise vision: 👂 heard
+  - Enterprise capabilities: 👂 heard
   - Project scope: 👂 heard
   - Enterprise service bus
   - Service-oriented architecture: 👂 heard
-  - Microservices: 👂 heard
+  - Microservices: 🎓 known
   - Process choreography
   - Service orchestration
   - Data warehouse
