@@ -1,27 +1,27 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
+  - Strong and weak sides of node.js h
+  - Stateful and stateless servers h
+  - Nonblocking I/O and blocking code h
   - Event loop phases
   - Event loop microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection k
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
+  - CommonJS modules k
   - ECMAScript modules
   - Module `node:module`
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules` e
+  - Files `package.json`, `package-lock.json` e
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection  k
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
@@ -79,7 +79,7 @@
   - RPC
   - Routing
   - DoS
-  - DDoS
+  - DDoS u
   - XSS
   - Path traversal
   - CSRF
@@ -89,13 +89,13 @@
   - keep-alive
   - IP sticky sessions
 - Technique and tools
-  - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
+  - Native test runner k
+  - Logging k
+  - Application configuring h
+  - Testing k
+  - CI/CD k
+  - Readable k
+  - Writable k
   - Transform
   - Back pressure
   - Buffer
@@ -107,10 +107,10 @@
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD
+  - CRUD e
   - DTO
 - Error handling and debugging
-  - `Error`
+  - `Error` k
   - `error.cause`
   - `error.code`
   - `error.message`
