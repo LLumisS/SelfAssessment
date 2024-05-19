@@ -17,7 +17,7 @@
   - Library: 🙋 explained
   - Package: 🎓 known
   - Component: 🎓 known
-  - Framework: 🎓 known
+  - Framework: e
   - Platform: 🎓 known
   - Source code: 🙋 explained
   - Object code: 🙋 explained
@@ -123,14 +123,14 @@
   - Deque: 🙋 explained
   - Tree: 🙋 explained
   - Graph: 🙋 explained
-  - Iterator: 🎓 known
+  - Iterator: e
   - Mutable state: 🙋 explained
   - Immutable state: 🙋 explained
-  - Serialization: 🎓 known
+  - Serialization: e
   - String parsing: 🙋 explained
-  - JSON: 🎓 known
+  - JSON: e
   - JSON5: 🎓 known
-  - YAML: 👂 heard
+  - YAML: e
 - Networking
   - DNS: 🙋 explained
   - CDN: 👂 heard
@@ -156,28 +156,28 @@
   - Virtual machine: 🙋 explained
   - Register-based VM: 👂 heard
   - Stack-based VM: 👂 heard
-  - Containerization: 👂 heard
+  - Containerization: k
   - Debugger: 🎓 known
   - Tracing: 👂 heard
   - Garbage collection: 🎓 known
   - Refactoring: 🙋 explained
   - Code review: 🙋 explained
   - Exception: 🙋 explained
-  - Unittesting: 🎓 known
+  - Unittesting: e
   - git: 🙋 explained
   - Github: 🙋 explained
-  - Docker: 🎓 known
-  - Kubernetes: 👂 heard
+  - Docker: e
+  - Kubernetes: k
   - GCC: 👂 heard
   - LLVM: 👂 heard
 - Antipatterns
   - Magic numbers: 🙋 explained
   - Hard code: 🙋 explained
   - Soft code: 🙋 explained
-  - Cryptic code
+  - Cryptic code h
   - Improbability factor
   - Accidental complexity
-  - Action at a distance
+  - Action at a distance h
   - Spaghetti: 🙋 explained
   - Silver bullet: 🙋 explained
   - Not invented here: 🙋 explained
@@ -185,24 +185,24 @@
   - Unreachable code: 🙋 explained
   - Duplicate code: 🙋 explained
   - Premature optimization
-  - Micro-optimization
+  - Micro-optimization h
   - Nested loops: 🙋 explained
   - Long method/function/procedure: 🙋 explained
   - Long inheritance: 🙋 explained
   - Large class/file: 🙋 explained
   - Too many parameters: 🙋 explained
   - Pass-through parameters: 🙋 explained
-  - Accumulate and fire
+  - Accumulate and fire h
   - Use switch/case: 🙋 explained
   - Temporary field: 🙋 explained
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments: 🙋 explained
   - Data clump
   - Feature envy
-  - Monkey patch
-  - Yo-yo problem
+  - Monkey patch h
+  - Yo-yo problem h
 - Runtimes and virtual machines
-  - Bytecode: 🎓 known
+  - Bytecode: e
   - V8: 🎓 known
   - VJM: 🎓 known
   - CLR: 👂 heard
@@ -210,9 +210,9 @@
 - Operating systems
   - Interrupts
   - Drivers: 🎓 known
-  - Kernel: 🎓 known
+  - Kernel: e
   - Ring
-  - Virtual memory: 🎓 known
+  - Virtual memory: e
   - File system: 🎓 known
   - Linux: 🎓 known
   - Unix: 🎓 known

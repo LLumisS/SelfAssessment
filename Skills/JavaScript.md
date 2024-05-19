@@ -20,8 +20,8 @@
   - Destructuring: 🙋 explained
   - Generators: 🎓 known
   - Iterators: 🎓 known
-  - Async generator: 👂 heard
-  - Async iterator: 👂 heard
+  - Async generator: k
+  - Async iterator: k
   - Chaining: 🙋 explained
   - Optional chaining: 🙋 explained
   - IIFE: 👂 heard
@@ -104,9 +104,9 @@
   - `Date`: 🙋 explained
   - `Math`: 🙋 explained
   - `Reflect`: 👂 heard
-  - `Error`: 🎓 known
-  - `Atomics`: 🎓 known
-  - `JSON`: 🎓 known
+  - `Error`: e
+  - `Atomics`: e
+  - `JSON`: e
   - `WeakRef`: 👂 heard
   - `FinalizationRegistry`: 👂 heard
   - `Intl`: 👂 heard

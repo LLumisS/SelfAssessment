@@ -89,11 +89,11 @@
   - keep-alive
   - IP sticky sessions
 - Technique and tools
-  - Native test runner: 🎓 known
-  - Logging: 🎓 known
-  - Application configuring: 👂 heard
-  - Testing: 🎓 known
-  - CI/CD: 🎓 known
+  - Native test runner: e
+  - Logging: e
+  - Application configuring: u
+  - Testing: e
+  - CI/CD: e
   - Readable: 🎓 known
   - Writable: 🎓 known
   - Transform

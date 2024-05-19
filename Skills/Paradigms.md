@@ -17,8 +17,8 @@
   - Functional-reactive (FRP): 🎓 known
   - Automata-based programming: 👂 heard
   - Domain-specific languages: 👂 heard
-  - Multi-paradigm programming: 🎓 known
-  - Metaprogramming: 👂 heard
+  - Multi-paradigm programming: e
+  - Metaprogramming: k
   - Actor model
   - Lambda calculus
   - Black box
@@ -45,47 +45,47 @@
   - Hidden class: 🙋 explained
   - Object form: 🙋 explained
   - Instance: 🙋 explained
-  - Introspection: 👂 heard
+  - Introspection: k
   - Reflection: 🙋 explained
-  - The diamond problem: 👂 heard
+  - The diamond problem: k
 - GRASP
-  - Information expert: 👂 heard
-  - Creator: 👂 heard
-  - Controller: 👂 heard
-  - Indirection
-  - Low coupling
-  - High cohesion
+  - Information expert: k
+  - Creator: k
+  - Controller: k
+  - Indirection h
+  - Low coupling h
+  - High cohesion h
   - Protected variations: 👂 heard
-  - Pure fabrication: 👂 heard
+  - Pure fabrication: k
 - SOLID
-  - Single-responsibility principle (SRP): 🎓 known
-  - Open–closed principle (OCP): 🎓 known
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP): 👂 heard
-  - Dependency inversion principle (DIP): 👂 heard
+  - Single-responsibility principle (SRP): e
+  - Open–closed principle (OCP): e
+  - Liskov substitution principle (LSP) k
+  - Interface segregation principle (ISP): k
+  - Dependency inversion principle (DIP): e
 - Patterns
-  - Singleton: 🎓 known
-  - Factory Method: 🎓 known
-  - Abstract Factory: 🎓 known
-  - Adapter
-  - Observer
+  - Singleton: e
+  - Factory Method: e
+  - Abstract Factory: e
+  - Adapter h
+  - Observer h
   - Strategy
   - Facade
-  - Proxy: 👂 heard
-  - Chain of Responsibility: 👂 heard
+  - Proxy: k
+  - Chain of Responsibility: k
   - Command
-  - Iterator: 🎓 known
+  - Iterator: e
   - State
   - Bridge
-  - Builder: 👂 heard
-  - Prototype: 👂 heard
+  - Builder: k
+  - Prototype: k
   - Composite
-  - Decorator
+  - Decorator h
   - Flyweight
   - Mediator
   - Memento
-  - Template Method
+  - Template Method h
   - Visitor
   - Reactor
   - Active object
-  - Delegation: 👂 heard
+  - Delegation: k
