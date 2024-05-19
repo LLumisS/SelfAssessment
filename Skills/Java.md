@@ -1,117 +1,117 @@
 ## Java
 
 - Code basics
-	- Variables
-	- Primitive types
-	- `String`
-	- `Object`
-	- Arithmetic operators
-	- Boolean operators
-	- Complex conditions
-	- `if/else`
-	- `switch`
-	- Arrays
-	- `for` loop
-	- `while` loop
-	- `do ... while` loop
-	- foreach loop
-	- `try/catch`
-	- Checked exceptions
-	- Unchecked exceptions
-	- Errors
-	- `List`
-	- `Set`
-	- `Map`
-	- `Collection`, `Iterable`
-    - Recursion
-    - Enum classes
+  - Variables
+  - Primitive types
+  - `String`
+  - `Object`
+  - Arithmetic operators
+  - Boolean operators
+  - Complex conditions
+  - `if/else`
+  - `switch`
+  - Arrays
+  - `for` loop
+  - `while` loop
+  - `do ... while` loop
+  - foreach loop
+  - `try/catch`
+  - Checked exceptions
+  - Unchecked exceptions
+  - Errors
+  - `List`
+  - `Set`
+  - `Map`
+  - `Collection`, `Iterable`
+  - Recursion
+  - Enum classes
 - Methods
-	- Arguments
-	- Return type
-	- Method signature
-	- Method overloading
-	- `varargs`
+  - Arguments
+  - Return type
+  - Method signature
+  - Method overloading
+  - `varargs`
 - Classes and objects
-	- Properties
-	- Methods
-	- `static`
-	- Constructors
-	- `final`
-	- `this`
-	- Initializer
-	- Mutable and immutable objects
+  - Properties
+  - Methods
+  - `static`
+  - Constructors
+  - `final`
+  - `this`
+  - Initializer
+  - Mutable and immutable objects
 - Class `Object`
-	- `toString()`
-	- `equals(), hashcode()`
+  - `toString()`
+  - `equals(), hashcode()`
 - Packages
 - Object-Oriented Programming (OOP)
-	- Abstraction
-	- Encapsulation
-	- Inheritance
-	- Polymorphism
-	- Abstract class
-	- Abstract method
-	- Interface
-	- `final` class
-	- `final` method
-	- `final` property
-	- Nested class
-	- Inner class
-	- `public`
-	- `private`
-	- `protected`
-	- package-private
-	- Cast operator
-	- `instanceof`
+  - Abstraction
+  - Encapsulation
+  - Inheritance
+  - Polymorphism
+  - Abstract class
+  - Abstract method
+  - Interface
+  - `final` class
+  - `final` method
+  - `final` property
+  - Nested class
+  - Inner class
+  - `public`
+  - `private`
+  - `protected`
+  - package-private
+  - Cast operator
+  - `instanceof`
 - Generics
-	- Class with type arguments
-	- Method with type arguments
-	- Bounded type arguments
-	- Type erasure
-	- Type inference
-	- Diamond operator `<>`
-	- Unbounded wildcard
-	- Upper-bounded wildcard
-	- Lower-bounded wildcard
+  - Class with type arguments
+  - Method with type arguments
+  - Bounded type arguments
+  - Type erasure
+  - Type inference
+  - Diamond operator `<>`
+  - Unbounded wildcard
+  - Upper-bounded wildcard
+  - Lower-bounded wildcard
 - Functional programming
-	- Functional interfaces
-	- Lambdas
-	- Method references
-	- Java Stream API
+  - Functional interfaces
+  - Lambdas
+  - Method references
+  - Java Stream API
 - `InputStream` and `OutputStream`
-    - `try/catch` with resource
-    - `Scanner`
-    - `ByteArrayOutputStream`
-    - `ByteArrayInputStream`
-    - `DataOutputStream`
-    - `DataInputStream`
+  - `try/catch` with resource
+  - `Scanner`
+  - `ByteArrayOutputStream`
+  - `ByteArrayInputStream`
+  - `DataOutputStream`
+  - `DataInputStream`
 - Readers and Writers
-    - `OutputStreamWriter`
-    - `InputStreamReader`
+  - `OutputStreamWriter`
+  - `InputStreamReader`
 - Working with files
-    - `BufferedOutputStream`
-    - `BufferedInputStream`
-    - `BufferedWriter`
-    - `BufferedReader`
-    - `File`
-    - `RandomAccessFile`
-    - `FileInputStream`
-    - `FileOutputStream`
-    - Serialization
+  - `BufferedOutputStream`
+  - `BufferedInputStream`
+  - `BufferedWriter`
+  - `BufferedReader`
+  - `File`
+  - `RandomAccessFile`
+  - `FileInputStream`
+  - `FileOutputStream`
+  - Serialization
 - Multithreading
-	- `Thread`
-	- `Runnable`
-	- `Semaphore`
-	- `Lock`
-	- Atomic types and operations
-	- Monitors
-	- `synchronized` methods
-	- `synchronized` blocks
-	- Synchronized collections
-	- Dead locks, race conditions
+  - `Thread`
+  - `Runnable`
+  - `Semaphore`
+  - `Lock`
+  - Atomic types and operations
+  - Monitors
+  - `synchronized` methods
+  - `synchronized` blocks
+  - Synchronized collections
+  - Dead locks, race conditions
 - Spring Framework
-	- Spring Core
-	- Spring Boot
-	- Spring MVC
-	- Spring Data
-	- Spring Security
+  - Spring Core
+  - Spring Boot
+  - Spring MVC
+  - Spring Data
+  - Spring Security
