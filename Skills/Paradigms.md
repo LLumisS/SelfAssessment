@@ -1,24 +1,24 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming k
-  - Imperative programming k
-  - Structured programming k
-  - Non-structured programming k
-  - Functional programming k
-  - Prototype-based programming k
-  - Object-oriented programming e
-  - Object-based programming k
-  - Generic programming e
-  - Concurrent computing k
-  - Asynchronous programming k
-  - Parallel programming k
-  - Reactive programming k
-  - Functional-reactive (FRP) k
-  - Automata-based programming h
-  - Domain-specific languages h
-  - Multi-paradigm programming k
-  - Metaprogramming h
+  - Procedural programming: 🎓 known
+  - Imperative programming: 🎓 known
+  - Structured programming: 🎓 known
+  - Non-structured programming: 🎓 known
+  - Functional programming: 🎓 known
+  - Prototype-based programming: 🎓 known
+  - Object-oriented programming: 🙋 explained
+  - Object-based programming: 🎓 known
+  - Generic programming: 🙋 explained
+  - Concurrent computing: 🎓 known
+  - Asynchronous programming: 🎓 known
+  - Parallel programming: 🎓 known
+  - Reactive programming: 🎓 known
+  - Functional-reactive (FRP): 🎓 known
+  - Automata-based programming: 👂 heard
+  - Domain-specific languages: 👂 heard
+  - Multi-paradigm programming: 🎓 known
+  - Metaprogramming: 👂 heard
   - Actor model
   - Lambda calculus
   - Black box
@@ -27,58 +27,58 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor e
-  - Operator `new` e
-  - Static method e
-  - Method e
-  - Async method e
-  - Getters, Setters e
-  - Public fields e
-  - Private fields e
-  - Field declarations e
-  - Inheritance e
-  - Parent class e
-  - Polymorphism e
-  - Abstract class e
-  - Interface e
-  - Encapsulation e
-  - Hidden class e
-  - Object form e
-  - Instance e
-  - Introspection h
-  - Reflection e
-  - The diamond problem h
+  - Constructor: 🙋 explained
+  - Operator `new`: 🙋 explained
+  - Static method: 🙋 explained
+  - Method: 🙋 explained
+  - Async method: 🙋 explained
+  - Getters, Setters: 🙋 explained
+  - Public fields: 🙋 explained
+  - Private fields: 🙋 explained
+  - Field declarations: 🙋 explained
+  - Inheritance: 🙋 explained
+  - Parent class: 🙋 explained
+  - Polymorphism: 🙋 explained
+  - Abstract class: 🙋 explained
+  - Interface: 🙋 explained
+  - Encapsulation: 🙋 explained
+  - Hidden class: 🙋 explained
+  - Object form: 🙋 explained
+  - Instance: 🙋 explained
+  - Introspection: 👂 heard
+  - Reflection: 🙋 explained
+  - The diamond problem: 👂 heard
 - GRASP
-  - Information expert h
-  - Creator h
-  - Controller h
+  - Information expert: 👂 heard
+  - Creator: 👂 heard
+  - Controller: 👂 heard
   - Indirection
   - Low coupling
   - High cohesion
-  - Protected variations h
-  - Pure fabrication h
+  - Protected variations: 👂 heard
+  - Pure fabrication: 👂 heard
 - SOLID
-  - Single-responsibility principle (SRP) k
-  - Open–closed principle (OCP) k
+  - Single-responsibility principle (SRP): 🎓 known
+  - Open–closed principle (OCP): 🎓 known
   - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP) h
-  - Dependency inversion principle (DIP) h
+  - Interface segregation principle (ISP): 👂 heard
+  - Dependency inversion principle (DIP): 👂 heard
 - Patterns
-  - Singleton k
-  - Factory Method k
-  - Abstract Factory k
+  - Singleton: 🎓 known
+  - Factory Method: 🎓 known
+  - Abstract Factory: 🎓 known
   - Adapter
   - Observer
   - Strategy
   - Facade
-  - Proxy h
-  - Chain of Responsibility h
+  - Proxy: 👂 heard
+  - Chain of Responsibility: 👂 heard
   - Command
-  - Iterator k
+  - Iterator: 🎓 known
   - State
   - Bridge
-  - Builder h
-  - Prototype h
+  - Builder: 👂 heard
+  - Prototype: 👂 heard
   - Composite
   - Decorator
   - Flyweight
@@ -88,4 +88,4 @@
   - Visitor
   - Reactor
   - Active object
-  - Delegation h
+  - Delegation: 👂 heard

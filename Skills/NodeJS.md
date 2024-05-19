@@ -1,27 +1,27 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js h
-  - Stateful and stateless servers h
-  - Nonblocking I/O and blocking code h
+  - Strong and weak sides of node.js: 👂 heard
+  - Stateful and stateless servers: 👂 heard
+  - Nonblocking I/O and blocking code: 👂 heard
   - Event loop phases
   - Event loop microtasks and macrotasks
-  - Garbage collection k
+  - Garbage collection: 🎓 known
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules k
+  - CommonJS modules: 🎓 known
   - ECMAScript modules
   - Module `node:module`
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules` e
-  - Files `package.json`, `package-lock.json` e
+  - Dependencies: `npm`, `node_modules`: 🙋 explained
+  - Files `package.json`, `package-lock.json`: 🙋 explained
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection  k
+  - Dependency injection: 🎓 known
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
@@ -79,7 +79,7 @@
   - RPC
   - Routing
   - DoS
-  - DDoS u
+  - DDoS: 🖐️ used
   - XSS
   - Path traversal
   - CSRF
@@ -89,13 +89,13 @@
   - keep-alive
   - IP sticky sessions
 - Technique and tools
-  - Native test runner k
-  - Logging k
-  - Application configuring h
-  - Testing k
-  - CI/CD k
-  - Readable k
-  - Writable k
+  - Native test runner: 🎓 known
+  - Logging: 🎓 known
+  - Application configuring: 👂 heard
+  - Testing: 🎓 known
+  - CI/CD: 🎓 known
+  - Readable: 🎓 known
+  - Writable: 🎓 known
   - Transform
   - Back pressure
   - Buffer
@@ -107,10 +107,10 @@
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD e
+  - CRUD: 🙋 explained
   - DTO
 - Error handling and debugging
-  - `Error` k
+  - `Error`: 🎓 known
   - `error.cause`
   - `error.code`
   - `error.message`
